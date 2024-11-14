@@ -1,0 +1,20 @@
+{
+    "score": {
+        "1": "yes",
+        "0": "no"
+    },
+    "discussed": {
+        "S": "self",
+        "O": "other"
+    },
+    "autistic": {
+        "1": "yes",
+        "0": "no"
+    },
+    "keyword": "free text input describing keywords",
+    "language": {
+        "0": "IFL (Identity-First Language)",
+        "1": "PFL (Person-First Language)",
+        "-1": "Both"
+    }
+}
